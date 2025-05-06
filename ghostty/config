@@ -1,0 +1,36 @@
+command = /bin/zsh
+click-repeat-interval = 1100
+auto-update-channel = stable
+# Manage themes in /Applications/Ghostty.app/Contents/Resources/ghostty/themes/synthwave
+theme = synthwave
+background-opacity = 0.8
+background-blur-radius = 16
+macos-titlebar-style = tabs
+# macos-titlebar-proxy-icon = hidden
+# shell-integration-features = cursor,sudo,no-title
+
+keybind = global:cmd+grave_accent=toggle_quick_terminal
+
+## theme based on synthwave
+palette = 0=#404010
+palette = 1=#f6188f
+palette = 2=#1ebb2b
+palette = 3=#fdf834
+palette = 4=#2186ec
+palette = 5=#f85a21
+palette = 6=#12c3e2
+palette = 7=#ffffff
+palette = 8=#777777
+palette = 9=#f841a0
+palette = 10=#25c141
+palette = 11=#fdf454
+palette = 12=#2f9ded
+palette = 13=#f97137
+palette = 14=#19cde6
+palette = 15=#ffffff
+# background = #1b1b2f
+foreground = #dad9c7
+cursor-color = #19cde6
+cursor-text = #dad9c7
+selection-background = #19cde6
+selection-foreground = #000000
